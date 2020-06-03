@@ -10,3 +10,6 @@ This Console Based Library Management System is Designed for Beginners Who want 
 <br />5.) Serialization is used to store Data.
 <br />6.) Gives resonable output if something goes wrong.
 <br />7.) Explore more by Running it.
+
+# Hack:
+For New User, Use "xx__"(without double quotes) as UserName and Password.
